@@ -1,0 +1,84 @@
+.block_1 {
+	border: solid 3px black;
+	float: left ;
+	display:inline-block;
+	margin-right: 10px;
+	width: 470px;
+	margin-top: 20px;
+}
+
+.block_2 {
+	border: solid 3px black;
+	float: left ;
+	display:inline-block;
+	margin-right: 10px;
+	width: 470px;
+	margin-top: 20px;
+}
+
+.block_3 {
+	border: solid 3px black;
+	float: left ;
+	display:inline-block;
+	margin-right: 10px;
+	width: 470px;
+	margin-top: 20px;
+}
+
+
+img {
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 20opx ;
+}
+
+a {
+    color: #0075B2;                                                                                                                    /* Цвет обычной ссылки */ 
+    text-decoration: none;                                                                                                             /* Убираем подчёркивание у ссылок */
+   }
+   a:visited {
+    color: #8F8E8E;                                                                                                                    /* Цвет посещённой ссылки */
+   } 
+   a:hover {
+    color: #CE242B;                                                                                                                    /* Цвет ссылки при наведении */ 
+    text-decoration: none;                                                                                                        /* Добавляем подчёркивание */
+}
+
+.menu_1 {
+	border: solid 3px black;
+	border-radius: 3px;
+	float: right;
+	margin-right: 500px;
+	margin-left: 10px;
+	height: 50px;
+	width: 180px;
+	background-color: black;
+}
+
+.menu_2 {
+	border: solid 3px black;
+	border-radius: 3px;
+	float: left;
+	margin-left: 500px;
+	margin-right: 10px;
+	height: 50px;
+	width: 180px;
+	background-color: black;
+}
+
+.a_1 {
+	margin-bottom: 60px;
+	margin-left: 50px;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+.block_36 {
+	position: fixed;
+}
+
+.block_28 {
+	position: fixed;
+	margin-top: 70px;
+}
+
